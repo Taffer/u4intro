@@ -23,7 +23,7 @@ TARGET_FPS = 30
 RECORDING = True
 
 # https://wiki.ultimacodex.com/wiki/Ultima_IV_internal_formats#TITLE.EXE
-U4INTRO = r'D:\Games\GOG\Ultima 4\TITLE.EXE'  # Why yes, this is terrible.
+U4INTRO = 'Ultima4/TITLE.EXE'
 U4_BEASTIE_OFFSET = 0x7380
 U4_DAEMON_WIDTH = 56
 U4_DRAGON_WIDTH = 48
